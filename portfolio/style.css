@@ -1,0 +1,26 @@
+.my-img{
+    width: 380px;
+    height:450px
+}
+#about{
+    margin-top: 8%;
+}
+.about-tx{
+    margin-top: 10%;
+}
+#skills{
+    margin-top: 8%;
+}
+.skill{
+    margin-top: 5%;
+}
+#contact{
+    margin-top:8%;
+}
+.my-info{
+    margin-top: 5%;
+}
+.web{
+    text-align: center;
+    margin-top: 10%;
+}
